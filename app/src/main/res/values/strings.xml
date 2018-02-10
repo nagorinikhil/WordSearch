@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Word Search</string>
+    <string name="word_frequency">Word frequencies:</string>
+    <string name="finish">Finish</string>
+    <string name="search">Search</string>
+    <string name="add_words" >Add Words to search:</string>
+    <string name="match_case">Match Cases</string>
+    <string name="activity1">Word Counter</string>
+    <string name="activity2">Words</string>
+</resources>
